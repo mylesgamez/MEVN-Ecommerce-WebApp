@@ -1,4 +1,4 @@
-# Vue-Django-EcommerceApp
+# Vue-Django-Ecommerce-WebApp
 A comprehensive ecommerce web application developed using Vue.js for the frontend and Django for the backend, with a PostgreSQL database.
 
 ## Tech Stack
@@ -12,8 +12,8 @@ Here are the steps to setup this project locally:
 
 1. Clone the repo 
 ```
-git clone https://github.com/your-github-username/Vue-Django-EcommerceApp.git
-cd Vue-Django-EcommerceApp
+git clone https://github.com/your-github-username/Vue-Django-Ecommerce-WebApp.git
+cd Vue-Django-Ecommerce-WebApp
 ```
 
 2. Setup the Python Virtual Environment and install dependencies
