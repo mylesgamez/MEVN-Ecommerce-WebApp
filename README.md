@@ -2,10 +2,10 @@
 A comprehensive ecommerce web application developed using Vue.js for the frontend and Django for the backend, with a PostgreSQL database.
 
 ## Tech Stack
-Frontend: Vue.js
-Backend: Django, Django REST Framework
-Database: PostgreSQL
-Other Key Libraries: Vuex, axios
+- Frontend: Vue.js
+- Backend: Django, Django REST Framework
+- Database: PostgreSQL
+- Other Key Libraries: Vuex, axios
 
 ## Getting Started
 Here are the steps to setup this project locally:
