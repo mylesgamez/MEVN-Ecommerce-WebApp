@@ -7,6 +7,10 @@ A comprehensive ecommerce web application developed using Vue.js for the fronten
 - Database: PostgreSQL
 - Other Key Libraries: Vuex, axios
 
+<img width="1427" alt="Screenshot 2023-08-08 at 5 35 59 PM" src="https://github.com/mylesgamez/Vue-Django-Ecommerce-WebApp/assets/94767708/67d16e31-b75b-41f5-81fe-16e44d458964">
+<img width="1433" alt="Screenshot 2023-08-08 at 5 36 22 PM" src="https://github.com/mylesgamez/Vue-Django-Ecommerce-WebApp/assets/94767708/7a6be310-ef99-4833-9e66-d9737d148c3e">
+<img width="1436" alt="Screenshot 2023-08-08 at 5 35 45 PM" src="https://github.com/mylesgamez/Vue-Django-Ecommerce-WebApp/assets/94767708/0bbea87d-5840-4678-b992-ad71ca64dd69">
+
 ## Getting Started
 Here are the steps to setup this project locally:
 
