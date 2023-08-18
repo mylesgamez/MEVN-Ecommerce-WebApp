@@ -1,4 +1,4 @@
-# Vue-Django-Ecommerce-WebApp
+# MEVN-Ecommerce-WebApp
 A comprehensive ecommerce web application developed using Vue.js for the frontend and Django for the backend, with a PostgreSQL database.
 
 ## Tech Stack
